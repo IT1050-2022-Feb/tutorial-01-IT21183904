@@ -18,6 +18,7 @@ int main(void) {
    printf("Minimum is :%d\n",minimumm(n1,n2));
    printf("Maximum is :%d\n",maximumm(n1,n2));
    printf("Multiply is %d\n",multiplyy(n1,n2));
+}
 
    int minimumm(int no1,int no2)
    {
